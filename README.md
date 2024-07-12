@@ -1,2 +1,2 @@
 # cv
-### Site is hosted at https://anshdstar.github.io/cv/
+### Site is hosted [here](https://aditya-n-suman.github.io/cv/)
